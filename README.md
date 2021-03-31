@@ -1,6 +1,5 @@
 # NGOConnect
 ## About
-To run this project do
 Through our website, NGO Connect, we are providing a platform for people to report issues that fall under various categories that NGOs work for, and send these issues to NGOs who have registered on our website, based on the location and category of the problem that is reported. 
 The various categories of problems that we seek to resolve through the NGOs that work to resolve those fall under the UN Goals of Zero Hunger, Good Health and Well-Being, Clean Water and Sanitation, Responsible Consumption and Production, Gender Equality and Empowerment, Quality Education. 
 We want to achieve the UN Goal of Reduced Inequalities through our web portal, as by resolving the problems faced by these communities, we are increasing their quality of life and thereby reducing inequalities by bridging the gap that these people face due to the lack of means.
